@@ -1,0 +1,9 @@
+[mariadb]
+host = localhost
+port = 3306
+database = log4om2
+user = log4om2User
+password = CHANGE_ME
+
+[api]
+key = CHANGE_ME
