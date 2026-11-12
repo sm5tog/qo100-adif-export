@@ -3,3 +3,7 @@ sent_qsos.json
 state.json
 *.adi
 refs/
+# Privata arbetsdokument, aldrig i git (global regel 33)
+CLAUDE.md
+DOCUMENTATION.md
+TODO.md
